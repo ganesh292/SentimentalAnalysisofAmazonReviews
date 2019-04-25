@@ -3,7 +3,7 @@
 Sentimental Analysis is the process of computationally identifying and categorizing statements made from a piece of text and determine whether the author’s feelings toward a particular product is positive, negative or neutral. It is very vital for Industrial leaders like Amazon with their giant E-Commerce business to understand consumer behaviour and their sentiment to reach out better to them. With recent developments in the field of machine learning and text analytics this could be effectively achieved. In this project we aim to predict the sentiment or polarity of a review given to a particular amazon baby product using supervised machine learning algorithms. Based on that we will compare the performance of each of the approaches used and comment on the best approach for such applications.
 </p>
 
-<h2> Dataset [http://jmcauley.ucsd.edu/data/amazon/] <h2>
+<h2> Dataset [http://jmcauley.ucsd.edu/data/amazon/] </h2>
 <p>
 The Dataset used is from the official amazon product data hosted in the link above
 and is provided by researchers from UCSD. This Review dataset contains the following features in
