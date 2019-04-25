@@ -40,3 +40,7 @@ Took the help of NLP tool kit and scikit-learn library in the anaconda distribut
 python and used Google Colab's GPU for reducing the computation time.
  </p>
 <h2> Results </h2>
+<p> Accuracy of Classifiers on Original Data where Positive Reviews were Greater than Negative Reviews </p>
+![Picture1](https://user-images.githubusercontent.com/20455065/56711485-aa101e00-6748-11e9-8215-d6d0caacf4b8.png)
+<p> Accuracy of Classifiers on Balanaced Data where Positive Reviews are Equal to the Negative Reviews </p>
+![Picture2](https://user-images.githubusercontent.com/20455065/56711487-abd9e180-6748-11e9-9f07-51775ec525d0.png)
